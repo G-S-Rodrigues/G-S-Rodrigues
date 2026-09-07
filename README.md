@@ -32,6 +32,18 @@ hands-on experience deploying and validating robotics systems in the field.
       in real-world environments.
     </td>
   </tr>
+  <tr>
+    <td width="150" align="center">
+      <a href="https://tugbot.com/">
+        <img src="assets/tugbot-logo.png" width="130" alt="Tugbot" />
+      </a>
+    </td>
+    <td>
+      <strong>Previously: Robotics Software Developer at Tugbot</strong><br />
+      Built and deployed AMR capabilities spanning motion planning and control,
+      peripheral integration, and containerized production software.
+    </td>
+  </tr>
 </table>
 
 ## Toolbox
