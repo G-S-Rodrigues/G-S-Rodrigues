@@ -34,17 +34,6 @@ hands-on experience deploying and validating robotics systems in the field.
   </tr>
 </table>
 
-## Selected Work
-
-**[Landmark-based Vineyard SLAM](https://github.com/G-S-Rodrigues/Train_Yolo11_custom_dataset)**<br />
-End-to-end agricultural SLAM pipeline: a 1,100+ image dataset, YOLO segmentation,
-RGB-D landmark extraction, selective-update Kalman filtering, and TensorRT
-deployment on Jetson Orin. Validated at over 30 FPS in a commercial vineyard.
-
-**[GR-roboracer](https://github.com/G-S-Rodrigues/GR-roboracer)**<br />
-Simulation-first autonomous racing stack for F1TENTH/RoboRacer, built with ROS 2
-Jazzy, C++, Python, and JAX.
-
 ## Toolbox
 
 <p align="center">
